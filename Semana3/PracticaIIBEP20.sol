@@ -1,3 +1,4 @@
+//Contrato de Creación y Gestión de Tokens BEP-20 y TRC-20 para Binance Smart Chain y TRON
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
